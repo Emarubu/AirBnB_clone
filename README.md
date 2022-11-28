@@ -1,1 +1,1 @@
-0x00. AirBnB clone - The console
+The console is the first segment of the AirBnB project that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project . This the first part of it the console( command line interepteur)
