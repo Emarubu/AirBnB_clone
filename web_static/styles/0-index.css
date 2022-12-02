@@ -3,7 +3,7 @@ body{
 	padding: 0;
 }
 header{
-	color #FF0000 (red);
+	color #FF0000;
 	height: 70px;
 	width: 100%;
 }
@@ -16,5 +16,5 @@ footer{
 	justify-content: center;
 	align-items: center;
 	display: flex;
-	text-align center;
+	text-align: center;
 }
